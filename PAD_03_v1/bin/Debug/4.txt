@@ -1,0 +1,1 @@
+{"employees":[{"firstName":"Anna","lastName":"Ivanova","department":"IT","salary":20000},{"firstName":"Ivan","lastName":"Petrov","department":"IT","salary":15000},{"firstName":"Andrei","lastName":"Sidorov","department":"CR","salary":5000}]}
